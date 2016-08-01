@@ -1,3 +1,3 @@
 # UICollectionViewCell-
-UICollectionViewCell的移动和移动
+UICollectionViewCell的移动和删除
 
